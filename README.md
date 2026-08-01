@@ -1,5 +1,5 @@
 <h1 align="center">Hola, soy Pablo Alan Garces Palacios 👋</h1>
-<h3 align="center">Data Scientist | Automatización & Analítica de Datos</h3>
+<h3 align="center">Chemical Engeniering, Data Analyst, Data Automation and Analyst</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/TU-USUARIO" target="_blank">
