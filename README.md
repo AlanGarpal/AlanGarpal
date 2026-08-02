@@ -1,23 +1,43 @@
-<h1 align="center">Hola, soy Pablo Alan Garces Palacios 👋</h1>
-<h3 align="center">Chemical Engeniering, Data Analyst, Data Automation and Analyst</h3>
+<h1 align="center">Hi, soy Pablo Alan Garces Palacios 👋</h1>
+<h3 align="center">Chemical Engeniering, Data Scientist, Data Automation and Analyst</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/TU-USUARIO" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://twitter.com/TU-USUARIO" target="_blank">
+
+  <a href="https://x.com/TU-USUARIO" target="_blank">
     <img src="https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
+
   <a href="https://TU-USUARIO.github.io" target="_blank">
     <img src="https://img.shields.io/badge/-Portfolio-7B3FE4?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+
+  <a href="https://www.kaggle.com/TU-USUARIO" target="_blank">
+    <img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+  </a>
+
+  <a href="https://www.coursera.org/user/TU-USUARIO" target="_blank">
+    <img src="https://img.shields.io/badge/-Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=white" />
+  </a>
+
+  <a href="https://www.instagram.com/TU-USUARIO" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+
+  <a href="https://www.facebook.com/TU-USUARIO" target="_blank">
+    <img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
 </p>
 
 ---
 
-### 🎯 Intereses
-Bases de datos SQL Server, dashboards con Power BI (DAX), pipelines de datos en Python y modelos de Machine Learning para forecasting y pricing. Explorando también automatización de procesos y arquitectura de datos.
+### 🎯 Interisting 
+I am committed to integrating robust data processing strategies that improve operational efficiency and reporting accuracy, With a foundation in chemical engineering and a passion for data science, I'm poised to innovate in the field of logistics, proficiencies in Python, Excel, Julia Language, R language, SQL and Power Bi, along with certifications in Google Cloud, enable us to drive data-led decision-making and contribute to company success.
 
+"Wenn du kämpfst, kannst du verlieren, 
+wenn du nicht kämpfst, hast du bereits verloren.“: 
 ---
 
 ### 🛠️ Stack
