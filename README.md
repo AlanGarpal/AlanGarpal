@@ -2,7 +2,7 @@
 
   <!-- Banner Superior / Headline Header -->
   <a href="https://github.com/TU_USUARIO">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,24,30&height=180&section=header&text=%C2%AB%20Alan%20Garces%20%C2%BB&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=40" width="100%" alt="Header Banner"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,24,30&height=180&section=header&text=%C2%AB%20Data%20Scientist%20Alan%20Garces%20%C2%BB&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=40" width="100%" alt="Header Banner"/>
   </a>
 
   <br/><br/>
