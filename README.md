@@ -16,5 +16,39 @@ I am committed to integrating robust data processing strategies that improve ope
 wenn du nicht kämpfst, hast du bereits verloren.“: 
 ---
   </p>
-
   <br/>
+
+<!-- AI/ML & Data Science -->
+  <h3>🧠 Programming Languages • AI/ML • Data Science</h3>
+
+  <table>
+    <tr>
+      <td colspan="6" align="center"><b>Languages & Frameworks</b></td>
+    </tr>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" /><br/>
+        <sub><b>Python</b></sub>
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="40" height="40" alt="scikit-learn" /><br/>
+        <sub><b>Scikit-Learn</b></sub>
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40" alt="NumPy" /><br/>
+        <sub><b>NumPy</b></sub>
+      </td>
+      <td align="center" width="96">
+        <img src="https://img.shields.io/badge/XGBoost-111111?style=for-the-badge&logo=xgboost&logoColor=white" height="32" alt="XGBoost" /><br/>
+        <sub><b>XGBoost</b></sub>
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40" alt="TensorFlow" /><br/>
+        <sub><b>TensorFlow</b></sub>
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" height="40" alt="PyTorch" /><br/>
+        <sub><b>PyTorch</b></sub>
+      </td>
+    </tr>
+  </table>
