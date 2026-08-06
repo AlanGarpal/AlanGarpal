@@ -10,7 +10,7 @@
   <!-- Tagline / Breve presentación -->
   <p>
 ### 🎯 About
-I am committed to integrating robust data processing strategies that improve operational efficiency and reporting accuracy, With a foundation in chemical engineering and a passion for data science, I'm poised to innovate in the field of logistics, proficiencies in Python, Excel, Julia Language, R language, SQL and Power Bi, along with certifications in Google Cloud, enable us to drive data-led decision-making and contribute to company success.
+I am committed to integrating robust data processing strategies that improve operational efficiency and reporting accuracy, With a foundation in chemical engineering and a passion for data science, I'm poised to innovate in the field of datos, proficiencies in Python, Excel, Julia Language, R language, SQL and Power Bi, along with certifications in Google Cloud, enable us to drive data-led decision-making and contribute to company success.
 
 "Wenn du kämpfst, kannst du verlieren, 
 wenn du nicht kämpfst, hast du bereits verloren.“: 
